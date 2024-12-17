@@ -1,0 +1,7 @@
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="colorPrimary">#121212</color> <!-- Dark background color -->
+    <color name="colorPrimaryDark">#000000</color> <!-- Darker shade for the status bar -->
+    <color name="colorAccent">#BB86FC</color> <!-- Accent color for buttons and highlights -->
+    <color name="textColor">#FFFFFF</color> <!-- Text color for dark mode -->
+</resources>

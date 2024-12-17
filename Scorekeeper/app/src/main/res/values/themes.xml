@@ -1,0 +1,7 @@
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#FFFFFF</color> <!-- Light background color -->
+    <color name="colorPrimaryDark">#E0E0E0</color> <!-- Lighter shade for the status bar -->
+    <color name="colorAccent">#6200EE</color> <!-- Accent color for buttons and highlights -->
+    <color name="textColor">#000000</color> <!-- Text color for light mode -->
+</resources>
