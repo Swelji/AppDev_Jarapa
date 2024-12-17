@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_contact" type="id" />
+    <item name="action_favorites" type="id"/>
+    <item name="action_status" type="id"/>
+</resources>
